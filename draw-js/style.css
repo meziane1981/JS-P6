@@ -1,11 +1,13 @@
 canvas {
-  border: 1px solid #000;
+    border: 1px solid #000;
 }
+
 body {
-  cursor: crosshair;
+    cursor: crosshair;
 }
+
 #reset {
-  margin-top: 10px;
-  margin-left: 5px;
-  float: left;
+    margin-top: 10px;
+    margin-left: 5px;
+    float: left;
 }
